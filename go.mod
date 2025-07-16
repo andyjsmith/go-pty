@@ -1,4 +1,4 @@
-module github.com/aymanbagabas/go-pty
+module github.com/andyjsmith/go-pty
 
 go 1.23.0
 
